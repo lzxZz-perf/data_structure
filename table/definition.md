@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 本章中,我们将会讨论以表ADT为基础的几种基本数据结构.
 
 # 表ADT
