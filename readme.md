@@ -15,6 +15,7 @@
 1. [一些基本定义](basic/definition.md)
 1. [复杂度和渐进记号](basic/symbol.md)
 ## 第一部分---表
+1. [表ADT](table/definition.md)
 1. [顺序表](table/array.md)
 1. [链表](table/link_list.md)
 1. [队列](table/queue.md)
